@@ -1,5 +1,5 @@
 import { type NextPage } from "next";
-import ReactTable from "@tanstack/react-table";
+// import ReactTable from "@tanstack/react-table";
 // import "@tareact-table/react-table.css";
 
 
